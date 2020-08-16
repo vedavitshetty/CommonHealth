@@ -3,6 +3,6 @@
 * Preview
 
 
-![img](https://github.com/vedavitshetty/CommonHealth/tree/master/images/SignIn_Page.jpg)
+![img](https://github.com/vedavitshetty/CommonHealth/tree/master/images/Patient_Portal.PNG)
 
 
